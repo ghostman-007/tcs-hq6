@@ -1,0 +1,54 @@
+[METAVERSE]
+https://www.ezyzip.com/unzip-files-online.html# > Tusks.docx
+steghide extract -sf Elephant.jpg > elephant > elephant_key.txt
+ROT18 6ryrcunagfgrcngngvzr > 1elephantstepatatime
+Tusks.docx > 1elephantstepatatime > HQ6{Folders_Are_a_Good_Place_T0_Organize_Files}
+HQ6FLAG{ULK6PPHOONUSR8HU}
+
+
+[SECURE SHELL]
+> cd Datacenter-Prodserver\home\sysadmin\.ssh\
+Converted OPENSSH PRIVATE KEY to RSA PRIVATE KEY
+> sudo ssh-keygen -p -N "" -m pem -f id_rsa
+HQ6FLAG{311V4WO4EOTJZVKH}
+
+
+[ERROR MACHINE]
+> Decode using Based64 decode
+MDEwMDEwMDAgMDEwMTAwMDEgMDAxMTAxMTAgMDExMTEwMTEgMDEwMTAwMTEgMDExMTAxMDEgMDExMDAwMTAgMDExMDExMDEgMDExMDEwMDEgMDExMTAxMDAgMDEwMTExMTEgMDExMDExMDEgMDExMDAxMDEgMDEwMTExMTEgMDExMDEwMDEgMDExMDAxMTAgMDEwMTExMTEgMDExMTEwMDEgMDExMDExMTEgMDExMTAxMDEgMDEwMTExMTEgMDExMDAwMTEgMDExMDAwMDEgMDExMDExMTAgMDEwMTExMTEgMDExMDAxMDAgMDExMDAxMDEgMDExMDAwMTEgMDExMDExMTEgMDExMDAxMDAgMDExMDAxMDEgMDEwMTExMTEgMDExMDExMDEgMDExMDAxMDEgMDExMTExMDEgMDAxMDAwMDA= 
+01001000 01010001 00110110 01111011 01010011 01110101 01100010 01101101 01101001 01110100 01011111 01101101 01100101 01011111 01101001 01100110 01011111 01111001 01101111 01110101 01011111 01100011 01100001 01101110 01011111 01100100 01100101 01100011 01101111 01100100 01100101 01011111 01101101 01100101 01111101 00100000
+> Converted binary to ASCII
+> https://www.rapidtables.com/convert/number/binary-to-ascii.html
+HQ6{Submit_me_if_you_can_decode_me} 
+HQ6FLAG{PBCKIWF100O2QC54}
+
+
+[INTO THE ABYSS]
+> foremost iamasimplefile.mp3
+> cd output/zip/
+> unzip 00001898.zip
+> cat millionmiles.txt
+HQ6{Hidden_in_the_hex_million_miles_away}
+HQ6FLAG{9GG261Y97Y5EN8WY} 
+
+
+[OFFICE MAGIC]
+https://goldfynch.com/pst-viewer/index.html 
+OR
+readpst TakeThatDreamTrip\!.pst
+mail -f Inbox.mbox
+2
+Inbox > HQ6{Its_Couponing_Time}
+HQ6FLAG{RUEZAX2SZ9ZUZA9F}
+
+
+[SHREWD CAT]
+Can you crack me ? Maybe I am a wordpress hash and the user is too dumb to set passwords in this format - U3ltYm9sX0RpZ2l0X1VzZXJuYW1lX0RpZ2l0X1N5bWJvbA== Login if you can crack it, and you will be rewarded
+Symbol_Digit_Username_Digit_Symbol
+userdb.sql > $P$BSzbnP1559RyjqpmoyeDH9GRY7CABT0
+
+
+[shazam]
+
+
+[Path_To_Heaven]
